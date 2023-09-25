@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Baloo Thambi 2", cursive;
+}
+
+body {
+}
